@@ -262,7 +262,7 @@ const Main = () => {
 
                 <div className={styles.mainImageTitleBox}>
                   <div className={styles.mainImageText}>
-                    동탄이 기다려온 새로운 주거 가치
+                    동탄이 기다려온 새로운 주거 가치 
                   </div>
 
                   <div className={styles.mainImageLine}></div>
