@@ -599,7 +599,7 @@ const Main = () => {
 
             <div className={styles.mainImageTextBox1}>
               <div className={styles.mainImageTextSub1}>
-                동탄2신도시 신주거문화타운의 새로운 주거 가치<br/>
+                동탄2신도시의 새로운 주거 가치<br/>
                 경기도 화성시 동탄2지구 A58BL<br/>
                 <span className={styles.greyText1}>
                   총 1,247세대 대단지 프리미엄
