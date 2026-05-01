@@ -256,7 +256,7 @@ const Main = () => {
               <div className={styles.mainImageTextBox}>
 
                 <div className={styles.mainImageTextSub}>
-                  동탄2신도시 신주거문화타운{" "}
+                  동탄2신도시 압도적인{" "}
                   <span className={styles.greyText}>프리미엄 라이프</span>
                 </div>
 
