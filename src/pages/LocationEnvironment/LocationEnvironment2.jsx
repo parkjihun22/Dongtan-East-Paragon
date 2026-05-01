@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
     name="description"
     content="동탄 동양 파라곤 3차 프리미엄 안내. 동탄2신도시 신주거문화타운 A58BL 입지, 82㎡·108㎡ 총 1,247세대 대단지, 동탄역 GTX-A·SRT 광역 교통망과 생활 인프라를 확인하세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/LocationEnvironment/primium" />
+  <link rel="canonical" href="https://paragon-modelhouse.co.kr/LocationEnvironment/primium" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 

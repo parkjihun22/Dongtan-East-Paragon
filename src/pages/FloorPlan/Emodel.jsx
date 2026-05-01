@@ -54,7 +54,7 @@ const Emodel = () => {
     content="동탄 동양 파라곤 3차 82㎡ 세대 평면을 확인하세요. 전용 82㎡ 타입의 공간 구성과 실내 구조, 세대 배치 정보를 온라인으로 편리하게 확인할 수 있습니다."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/FloorPlan/Emodel" />
+  <link rel="canonical" href="https://paragon-modelhouse.co.kr/FloorPlan/Emodel" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -64,8 +64,8 @@ const Emodel = () => {
     property="og:description"
     content="동탄 동양 파라곤 3차 전용 82㎡ 세대 평면과 공간 구성을 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/FloorPlan/Emodel" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/emodel.jpg" />
+  <meta property="og:url" content="https://paragon-modelhouse.co.kr/FloorPlan/Emodel" />
+  <meta property="og:image" content="https://paragon-modelhouse.co.kr/img/og/emodel.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -76,8 +76,8 @@ const Emodel = () => {
     name="twitter:description"
     content="동탄 동양 파라곤 3차 82㎡ 세대 평면과 공간 구성을 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/emodel.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/FloorPlan/Emodel" />
+  <meta name="twitter:image" content="https://paragon-modelhouse.co.kr/img/og/emodel.jpg" />
+  <meta name="twitter:url" content="https://paragon-modelhouse.co.kr/FloorPlan/Emodel" />
 
   {/* JSON-LD (구조화데이터) */}
   <script type="application/ld+json">
@@ -85,20 +85,20 @@ const Emodel = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "동탄 동양 파라곤 3차 - 82㎡",
-      "url": "https://www.lotte-castl.co.kr/FloorPlan/Emodel",
+      "url": "https://paragon-modelhouse.co.kr/FloorPlan/Emodel",
       "description":
         "동탄 동양 파라곤 3차 전용 82㎡ 세대 평면과 공간 구성을 확인할 수 있습니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/emodel.jpg",
+        "contentUrl": "https://paragon-modelhouse.co.kr/img/og/emodel.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.lotte-castl.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "82㎡", "item": "https://www.lotte-castl.co.kr/FloorPlan/Emodel" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://paragon-modelhouse.co.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "82㎡", "item": "https://paragon-modelhouse.co.kr/FloorPlan/Emodel" }
         ]
       }
     })}

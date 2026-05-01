@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "동탄 동양 파라곤 3차", url: "https://www.lotte-castl.co.kr/" },
+  { name: "동탄 동양 파라곤 3차", url: "https://paragon-modelhouse.co.kr/" },
 ];
 
 const Footer = () => {

@@ -102,7 +102,7 @@ const LocationEnvironment1 = () => {
     content="동탄 동양 파라곤 3차 입지환경 안내. 경기도 화성시 동탄2지구 A58BL, 동탄2신도시 신주거문화타운 입지와 동탄역 GTX-A·SRT, 생활 인프라, 교육 환경을 확인하세요."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/LocationEnvironment/intro" />
+  <link rel="canonical" href="https://paragon-modelhouse.co.kr/LocationEnvironment/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -112,8 +112,8 @@ const LocationEnvironment1 = () => {
     property="og:description"
     content="동탄2신도시 신주거문화타운 A58BL 입지, 동탄역 GTX-A·SRT 광역 교통망, 생활 인프라와 교육 환경을 갖춘 동탄 동양 파라곤 3차."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/LocationEnvironment/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/location.jpg" />
+  <meta property="og:url" content="https://paragon-modelhouse.co.kr/LocationEnvironment/intro" />
+  <meta property="og:image" content="https://paragon-modelhouse.co.kr/img/og/location.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -124,8 +124,8 @@ const LocationEnvironment1 = () => {
     name="twitter:description"
     content="동탄2신도시 신주거문화타운 입지와 동탄역 GTX-A·SRT, 생활 인프라, 교육 환경을 갖춘 동탄 동양 파라곤 3차의 입지환경을 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/location.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/LocationEnvironment/intro" />
+  <meta name="twitter:image" content="https://paragon-modelhouse.co.kr/img/og/location.jpg" />
+  <meta name="twitter:url" content="https://paragon-modelhouse.co.kr/LocationEnvironment/intro" />
 
   {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
   <script type="application/ld+json">
@@ -133,20 +133,20 @@ const LocationEnvironment1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "동탄 동양 파라곤 3차 - 입지환경",
-      "url": "https://www.lotte-castl.co.kr/LocationEnvironment/intro",
+      "url": "https://paragon-modelhouse.co.kr/LocationEnvironment/intro",
       "description":
         "동탄 동양 파라곤 3차 입지환경 페이지입니다. 경기도 화성시 동탄2지구 A58BL, 동탄2신도시 신주거문화타운 입지와 동탄역 GTX-A·SRT 광역 교통망, 생활 인프라, 교육 환경을 안내합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/location.jpg",
+        "contentUrl": "https://paragon-modelhouse.co.kr/img/og/location.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.lotte-castl.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.lotte-castl.co.kr/LocationEnvironment/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://paragon-modelhouse.co.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://paragon-modelhouse.co.kr/LocationEnvironment/intro" }
         ]
       }
     })}

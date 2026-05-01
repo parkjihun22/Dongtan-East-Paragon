@@ -53,7 +53,7 @@ const Brand1 = () => {
     name="description"
     content="동탄 동양 파라곤 3차 브랜드 소개. 경기도 화성시 동탄2지구 A58BL에 들어서는 총 1,247세대 대단지 아파트로, 동탄2신도시 신주거문화타운의 입지와 주거 가치를 소개합니다."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/Brand/intro" />
+  <link rel="canonical" href="https://paragon-modelhouse.co.kr/Brand/intro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -64,8 +64,8 @@ const Brand1 = () => {
     property="og:description"
     content="동탄2신도시 신주거문화타운 A58BL에 들어서는 82㎡·108㎡ 총 1,247세대 규모의 동탄 동양 파라곤 3차 브랜드 가치를 소개합니다."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/Brand/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/images/og/main.jpg" />
+  <meta property="og:url" content="https://paragon-modelhouse.co.kr/Brand/intro" />
+  <meta property="og:image" content="https://paragon-modelhouse.co.kr/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

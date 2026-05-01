@@ -50,7 +50,7 @@ const Brand2 = () => {
     name="description"
     content="동탄 동양 파라곤 3차 홍보영상으로 동탄2신도시 신주거문화타운 입지, 82㎡·108㎡ 총 1,247세대 대단지, 단지 설계와 생활 인프라를 확인하세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/Brand/video" />
+  <link rel="canonical" href="https://paragon-modelhouse.co.kr/Brand/video" />
   <meta name="robots" content="index,follow" />
 
   {/* OG 태그 */}
@@ -61,8 +61,8 @@ const Brand2 = () => {
     property="og:description"
     content="동탄 동양 파라곤 3차 홍보영상: 동탄2신도시 신주거문화타운 A58BL 입지와 총 1,247세대 대단지의 주거 가치를 영상으로 만나보세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/Brand/video" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/images/og/main.jpg" />
+  <meta property="og:url" content="https://paragon-modelhouse.co.kr/Brand/video" />
+  <meta property="og:image" content="https://paragon-modelhouse.co.kr/images/og/main.jpg" />
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
@@ -71,7 +71,7 @@ const Brand2 = () => {
     name="twitter:description"
     content="동탄2신도시 신주거문화타운 입지, 82㎡·108㎡ 총 1,247세대 대단지와 생활 인프라를 영상으로 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/images/og/main.jpg" />
+  <meta name="twitter:image" content="https://paragon-modelhouse.co.kr/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

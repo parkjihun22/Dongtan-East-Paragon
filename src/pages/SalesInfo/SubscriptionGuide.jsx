@@ -60,7 +60,7 @@ const ComplexGuide1 = () => {
           name="description"
           content="동탄 동양 파라곤 3차 청약 전 필수 체크포인트를 확인하세요. 청약 자격(거주기간·무주택·예치금), 특별공급 유형, 필요서류, 접수 일정 및 유의사항을 안내합니다."
         />
-        <link rel="canonical" href="https://www.lotte-castl.co.kr/SalesInfo/SubscriptionGuide" />
+        <link rel="canonical" href="https://paragon-modelhouse.co.kr/SalesInfo/SubscriptionGuide" />
         <meta name="robots" content="index,follow" />
       </Helmet>
 

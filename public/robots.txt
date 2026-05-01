@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.lotte-castl.co.kr/sitemap.xml
+Sitemap: https://paragon-modelhouse.co.kr/sitemap.xml

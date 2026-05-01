@@ -56,7 +56,7 @@ const BusinessGuide2 = () => {
     name="description"
     content="동탄 동양 파라곤 3차 분양(청약) 일정을 확인하세요. 특별공급, 1순위·2순위 청약 접수, 당첨자 발표 및 정당계약 등 주요 분양 일정을 안내합니다."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/BusinessGuide/plan" />
+  <link rel="canonical" href="https://paragon-modelhouse.co.kr/BusinessGuide/plan" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 

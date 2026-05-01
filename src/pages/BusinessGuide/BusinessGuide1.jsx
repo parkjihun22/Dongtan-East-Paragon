@@ -15,15 +15,16 @@ import { Helmet } from "react-helmet-async";
 
 
 const projectData = [
-	{ label: '사업명', value: '동탄 동양 파라곤 3차' },
-	{ label: '사업위치', value: '경기도 이천시 중리동 일원' },
-	{ label: '대지면적', value: '추후 공지' },
-	{ label: '건축면적', value: '추후 공지' },
-	{ label: '연면적', value: '추후 공지' },
-	{ label: '용적률', value: '추후 공지' },
-	{ label: '건축규모', value: '지하 2층 ~ 지상 25층, 총 21개동' },
-	{ label: '세대수', value: '총 1,325세대 (일반분양 371세대 포함)' },
-  ];
+  { label: '사업명', value: '동탄 동양 파라곤 3차' },
+  { label: '대지위치', value: '경기도 화성시 동탄2지구 A58BL' },
+  { label: '주택형', value: '전용 82㎡ / 108㎡' },
+  { label: '세대수', value: '총 1,247세대' },
+  { label: '건축규모', value: '지하 2층 ~ 지상 18층~20층' },
+  { label: '주차대수', value: '총 1,828대 (아파트 1,780대 / 근린생활시설 48대)' },
+  { label: '건축면적', value: '12,866.5157㎡' },
+  { label: '건폐율', value: '12.38%' },
+  { label: '용적률', value: '139.91%' },
+];
   
   
 
@@ -68,7 +69,7 @@ const BusinessGuide1 = () => {
     content="경기도 화성시 동탄2지구 A58BL에 들어서는 동탄 동양 파라곤 3차의 사업 개요를 확인하세요. 82㎡·108㎡ 총 1,247세대, 지하 2층~지상 18층~20층 규모, 주차 총 1,828대 계획 안내."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/BusinessGuide/intro" />
+  <link rel="canonical" href="https://paragon-modelhouse.co.kr/BusinessGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -78,8 +79,8 @@ const BusinessGuide1 = () => {
     property="og:description"
     content="동탄2신도시 신주거문화타운 A58BL에 조성되는 총 1,247세대 대단지. 82㎡·108㎡ 타입, 지하 2층~지상 18층~20층 규모와 주차 계획을 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/BusinessGuide/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/business.jpg" />
+  <meta property="og:url" content="https://paragon-modelhouse.co.kr/BusinessGuide/intro" />
+  <meta property="og:image" content="https://paragon-modelhouse.co.kr/img/og/business.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -90,8 +91,8 @@ const BusinessGuide1 = () => {
     name="twitter:description"
     content="동탄 동양 파라곤 3차 사업 개요: 동탄2지구 A58BL, 82㎡·108㎡ 총 1,247세대, 지하 2층~지상 18층~20층 규모 안내."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/business.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/BusinessGuide/intro" />
+  <meta name="twitter:image" content="https://paragon-modelhouse.co.kr/img/og/business.jpg" />
+  <meta name="twitter:url" content="https://paragon-modelhouse.co.kr/BusinessGuide/intro" />
 
   {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
   <script type="application/ld+json">
@@ -99,20 +100,20 @@ const BusinessGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "동탄 동양 파라곤 3차 - 사업안내",
-      "url": "https://www.lotte-castl.co.kr/BusinessGuide/intro",
+      "url": "https://paragon-modelhouse.co.kr/BusinessGuide/intro",
       "description":
         "경기도 화성시 동탄2지구 A58BL에 들어서는 동탄 동양 파라곤 3차의 사업 개요와 위치, 세대정보, 규모, 주차대수, 건폐율, 용적률 정보를 제공합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/business.jpg",
+        "contentUrl": "https://paragon-modelhouse.co.kr/img/og/business.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.lotte-castl.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.lotte-castl.co.kr/BusinessGuide/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://paragon-modelhouse.co.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://paragon-modelhouse.co.kr/BusinessGuide/intro" }
         ]
       }
     })}

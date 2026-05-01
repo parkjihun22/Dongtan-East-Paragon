@@ -74,7 +74,7 @@ const BusinessGuide2 = () => {
   <meta name="robots" content="index,follow" />
   <link
     rel="canonical"
-    href="https://www.lotte-castl.co.kr/BusinessGuide/documents"
+    href="https://paragon-modelhouse.co.kr/BusinessGuide/documents"
   />
 
   {/* Open Graph */}
@@ -85,8 +85,8 @@ const BusinessGuide2 = () => {
     property="og:description"
     content="동탄 동양 파라곤 3차 공급안내: 82㎡·108㎡ 총 1,247세대 공급 구성과 계약서류, 준비 절차 및 유의사항을 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/BusinessGuide/documents" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/Main1.png" />
+  <meta property="og:url" content="https://paragon-modelhouse.co.kr/BusinessGuide/documents" />
+  <meta property="og:image" content="https://paragon-modelhouse.co.kr/Main1.png" />
 </Helmet>
 
 <Header isChanged={isScroll} />

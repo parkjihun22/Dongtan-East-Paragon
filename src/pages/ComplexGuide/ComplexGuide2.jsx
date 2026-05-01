@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
     name="description"
     content="동탄 동양 파라곤 3차 동·호수 배치도 안내. 총 18개 동, 1,247세대 규모의 세대별 위치와 동별 배치, 조망, 일조, 생활 동선을 확인하세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/ComplexGuide/detailintro" />
+  <link rel="canonical" href="https://paragon-modelhouse.co.kr/ComplexGuide/detailintro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="총 18개 동, 1,247세대 규모의 동탄 동양 파라곤 3차 동·호수 배치도와 세대별 위치, 조망, 일조, 생활 동선을 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/ComplexGuide/detailintro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://paragon-modelhouse.co.kr/ComplexGuide/detailintro" />
+  <meta property="og:image" content="https://paragon-modelhouse.co.kr/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

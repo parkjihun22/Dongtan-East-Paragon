@@ -79,7 +79,7 @@ const ComplexGuide1 = () => {
           name="description"
           content="동탄 동양 파라곤 3차 모집공고 안내. 공급 규모, 공급면적, 청약 일정, 신청 자격, 당첨자 발표, 계약 절차 및 유의사항을 공식 모집공고 기준으로 확인하세요."
         />
-        <link rel="canonical" href="https://www.lotte-castl.co.kr/SalesInfo/announcement" />
+        <link rel="canonical" href="https://paragon-modelhouse.co.kr/SalesInfo/announcement" />
         <meta name="robots" content="index,follow" />
       </Helmet>
 

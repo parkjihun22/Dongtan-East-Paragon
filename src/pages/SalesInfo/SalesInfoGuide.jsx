@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
           name="description"
           content="동탄 동양 파라곤 3차 청약안내. 특별공급, 1순위·2순위 청약 일정, 신청 자격, 필요서류, 인터넷 청약 절차와 유의사항을 확인하세요."
         />
-        <link rel="canonical" href="https://www.lotte-castl.co.kr/SalesInfo/SubscriptionGuide" />
+        <link rel="canonical" href="https://paragon-modelhouse.co.kr/SalesInfo/SubscriptionGuide" />
         <meta name="robots" content="index,follow" />
       </Helmet>
 

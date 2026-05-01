@@ -56,7 +56,7 @@ const ComplexGuide3 = () => {
     name="description"
     content="동탄 동양 파라곤 3차 커뮤니티 시설 안내. 피트니스센터, 실내 골프연습장, 작은도서관, 주민 라운지 등 입주민의 생활 편의를 높이는 다양한 커뮤니티 시설을 확인하세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/ComplexGuide/community" />
+  <link rel="canonical" href="https://paragon-modelhouse.co.kr/ComplexGuide/community" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -67,8 +67,8 @@ const ComplexGuide3 = () => {
     property="og:description"
     content="피트니스센터, 실내 골프연습장, 작은도서관, 주민 라운지 등 다양한 커뮤니티 시설을 갖춘 동탄 동양 파라곤 3차."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/ComplexGuide/community" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://paragon-modelhouse.co.kr/ComplexGuide/community" />
+  <meta property="og:image" content="https://paragon-modelhouse.co.kr/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />
