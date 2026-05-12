@@ -46,10 +46,10 @@ const LocationEnvironment1 = () => {
   return (
     <div className={styles.container}>
 <Helmet>
-  <title>동탄 동양 파라곤 3차 - 프리미엄</title>
+  <title>동탄 파라곤 3차 - 프리미엄</title>
   <meta
     name="description"
-    content="동탄 동양 파라곤 3차 프리미엄 안내. 동탄2신도시 신주거문화타운 A58BL 입지, 82㎡·108㎡ 총 1,247세대 대단지, 동탄역 GTX-A·SRT 광역 교통망과 생활 인프라를 확인하세요."
+    content="동탄 파라곤 3차 프리미엄 안내. 동탄2신도시 신주거문화타운 A58BL 입지, 82㎡·108㎡ 총 1,247세대 대단지, 동탄역 GTX-A·SRT 광역 교통망과 생활 인프라를 확인하세요."
   />
   <link rel="canonical" href="https://paragon-modelhouse.co.kr/LocationEnvironment/primium" />
   <meta name="robots" content="index,follow" />
@@ -62,10 +62,10 @@ const LocationEnvironment1 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차 - 프리미엄
+  동탄 파라곤 3차 - 프리미엄
 </h1>
 <p className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차만의 프리미엄을 확인하세요.
+  동탄 파라곤 3차만의 프리미엄을 확인하세요.
   경기도 화성시 동탄2지구 A58BL에 들어서는 82㎡·108㎡ 총 1,247세대 대단지로,
   동탄2신도시 신주거문화타운의 주거환경과 동탄역 GTX-A·SRT 광역 교통망,
   생활 인프라와 교육 환경을 함께 누릴 수 있는 주거 가치를 제안합니다.
@@ -73,13 +73,13 @@ const LocationEnvironment1 = () => {
 
 <div className={styles.textBox}>
   <div>동탄2신도시 신주거문화타운 위에</div>
-  <div>동탄 동양 파라곤 3차의 프리미엄을 누리세요.</div>
+  <div>동탄 파라곤 3차의 프리미엄을 누리세요.</div>
 </div>
 
 <img
   src={page1}
   className={styles.image3}
-  alt="동탄 동양 파라곤 3차 프리미엄 이미지"
+  alt="동탄 파라곤 3차 프리미엄 이미지"
 />
 
       <Footer />

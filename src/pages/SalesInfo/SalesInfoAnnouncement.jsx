@@ -74,10 +74,10 @@ const ComplexGuide1 = () => {
 
       
       <Helmet>
-        <title>동탄 동양 파라곤 3차 - 모집공고 안내</title>
+        <title>동탄 파라곤 3차 - 모집공고 안내</title>
         <meta
           name="description"
-          content="동탄 동양 파라곤 3차 모집공고 안내. 공급 규모, 공급면적, 청약 일정, 신청 자격, 당첨자 발표, 계약 절차 및 유의사항을 공식 모집공고 기준으로 확인하세요."
+          content="동탄 파라곤 3차 모집공고 안내. 공급 규모, 공급면적, 청약 일정, 신청 자격, 당첨자 발표, 계약 절차 및 유의사항을 공식 모집공고 기준으로 확인하세요."
         />
         <link rel="canonical" href="https://paragon-modelhouse.co.kr/SalesInfo/announcement" />
         <meta name="robots" content="index,follow" />
@@ -89,23 +89,23 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
 
       <h1 className={styles.screenReaderOnly}>
-        동탄 동양 파라곤 3차 - 모집공고 안내
+        동탄 파라곤 3차 - 모집공고 안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        본 페이지에서는 동탄 동양 파라곤 3차의 모집공고 주요 사항을 안내합니다.
+        본 페이지에서는 동탄 파라곤 3차의 모집공고 주요 사항을 안내합니다.
         공급 규모와 공급면적, 청약 일정, 신청 자격, 당첨자 발표, 계약 절차 및
         유의사항을 공식 모집공고 기준으로 확인해 정확하게 준비하세요.
       </p>
 
       <div className={styles.textBox}>
         <div>입주자 모집공고를 확인하세요</div>
-        <div>동탄 동양 파라곤 3차 공식 안내</div>
+        <div>동탄 파라곤 3차 공식 안내</div>
       </div>
 
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="동탄 동양 파라곤 3차 모집공고 안내 이미지"
+        alt="동탄 파라곤 3차 모집공고 안내 이미지"
         onLoad={handleImageLoad}
       />
 

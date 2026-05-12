@@ -45,28 +45,28 @@ const Brand2 = () => {
 	return (
 		<div className={styles.container}>
 <Helmet>
-  <title>동탄 동양 파라곤 3차 - 홍보영상</title>
+  <title>동탄 파라곤 3차 - 홍보영상</title>
   <meta
     name="description"
-    content="동탄 동양 파라곤 3차 홍보영상으로 동탄2신도시 신주거문화타운 입지, 82㎡·108㎡ 총 1,247세대 대단지, 단지 설계와 생활 인프라를 확인하세요."
+    content="동탄 파라곤 3차 홍보영상으로 동탄2신도시 신주거문화타운 입지, 82㎡·108㎡ 총 1,247세대 대단지, 단지 설계와 생활 인프라를 확인하세요."
   />
   <link rel="canonical" href="https://paragon-modelhouse.co.kr/Brand/video" />
   <meta name="robots" content="index,follow" />
 
   {/* OG 태그 */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="동탄 동양 파라곤 3차" />
-  <meta property="og:title" content="동탄 동양 파라곤 3차 - 홍보영상" />
+  <meta property="og:site_name" content="동탄 파라곤 3차" />
+  <meta property="og:title" content="동탄 파라곤 3차 - 홍보영상" />
   <meta
     property="og:description"
-    content="동탄 동양 파라곤 3차 홍보영상: 동탄2신도시 신주거문화타운 A58BL 입지와 총 1,247세대 대단지의 주거 가치를 영상으로 만나보세요."
+    content="동탄 파라곤 3차 홍보영상: 동탄2신도시 신주거문화타운 A58BL 입지와 총 1,247세대 대단지의 주거 가치를 영상으로 만나보세요."
   />
   <meta property="og:url" content="https://paragon-modelhouse.co.kr/Brand/video" />
   <meta property="og:image" content="https://paragon-modelhouse.co.kr/images/og/main.jpg" />
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="동탄 동양 파라곤 3차 - 홍보영상" />
+  <meta name="twitter:title" content="동탄 파라곤 3차 - 홍보영상" />
   <meta
     name="twitter:description"
     content="동탄2신도시 신주거문화타운 입지, 82㎡·108㎡ 총 1,247세대 대단지와 생활 인프라를 영상으로 확인하세요."
@@ -80,16 +80,16 @@ const Brand2 = () => {
 <Bener title="홍보영상" />
 <MenuBar contents={menuContents} />
 
-<h1 className={styles.screenReaderOnly}>동탄 동양 파라곤 3차 - 홍보영상</h1>
+<h1 className={styles.screenReaderOnly}>동탄 파라곤 3차 - 홍보영상</h1>
 <p className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차의 홍보영상을 통해 동탄2신도시 신주거문화타운 입지와 단지 설계,
+  동탄 파라곤 3차의 홍보영상을 통해 동탄2신도시 신주거문화타운 입지와 단지 설계,
   전용 82㎡와 108㎡ 총 1,247세대 규모의 대단지 가치를 확인하세요.
   동탄의 생활 인프라와 쾌적한 주거환경을 영상으로 만나보세요.
 </p>
 
 <div className={`${styles.textBox} ${isTextVisible ? styles.active : ''}`}>
   <div>동탄2신도시 신주거문화타운 위에</div>
-  <div>동탄 동양 파라곤 3차가 새로운 주거 가치로 찾아옵니다.</div>
+  <div>동탄 파라곤 3차가 새로운 주거 가치로 찾아옵니다.</div>
 </div>
 
 

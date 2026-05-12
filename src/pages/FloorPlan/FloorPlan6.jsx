@@ -66,7 +66,7 @@ const FloorPlan6 = () => {
 
 			<div className={styles.textBox}>
 				<div>강화의 새로운 기준 위에</div>
-				<div>동탄 동양 파라곤 3차가 자부심으로 찾아옵니다.</div>
+				<div>동탄 파라곤 3차가 자부심으로 찾아옵니다.</div>
 			</div>
 
 			{/* 이미지에 애니메이션 효과 추가 */}

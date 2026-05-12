@@ -46,7 +46,7 @@ const LocationSection = [
   },
   {
     img: section2Image5,
-    titleText: "총 1,247세대 대단지<br />동탄 동양 파라곤 3차",
+    titleText: "총 1,247세대 대단지<br />동탄 파라곤 3차",
     contentText:
       "전용 82㎡·108㎡ 중심 세대 구성<br />지하 2층~지상 18층~20층 규모 대단지 아파트",
   },
@@ -96,21 +96,21 @@ const LocationEnvironment1 = () => {
     <div className={styles.container}>
 <Helmet>
   {/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-  <title>동탄 동양 파라곤 3차 - 입지환경</title>
+  <title>동탄 파라곤 3차 - 입지환경</title>
   <meta
     name="description"
-    content="동탄 동양 파라곤 3차 입지환경 안내. 경기도 화성시 동탄2지구 A58BL, 동탄2신도시 신주거문화타운 입지와 동탄역 GTX-A·SRT, 생활 인프라, 교육 환경을 확인하세요."
+    content="동탄 파라곤 3차 입지환경 안내. 경기도 화성시 동탄2지구 A58BL, 동탄2신도시 신주거문화타운 입지와 동탄역 GTX-A·SRT, 생활 인프라, 교육 환경을 확인하세요."
   />
   <meta name="robots" content="index,follow" />
   <link rel="canonical" href="https://paragon-modelhouse.co.kr/LocationEnvironment/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="동탄 동양 파라곤 3차" />
-  <meta property="og:title" content="동탄 동양 파라곤 3차 - 입지환경" />
+  <meta property="og:site_name" content="동탄 파라곤 3차" />
+  <meta property="og:title" content="동탄 파라곤 3차 - 입지환경" />
   <meta
     property="og:description"
-    content="동탄2신도시 신주거문화타운 A58BL 입지, 동탄역 GTX-A·SRT 광역 교통망, 생활 인프라와 교육 환경을 갖춘 동탄 동양 파라곤 3차."
+    content="동탄2신도시 신주거문화타운 A58BL 입지, 동탄역 GTX-A·SRT 광역 교통망, 생활 인프라와 교육 환경을 갖춘 동탄 파라곤 3차."
   />
   <meta property="og:url" content="https://paragon-modelhouse.co.kr/LocationEnvironment/intro" />
   <meta property="og:image" content="https://paragon-modelhouse.co.kr/img/og/location.jpg" />
@@ -119,10 +119,10 @@ const LocationEnvironment1 = () => {
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="동탄 동양 파라곤 3차 - 입지환경" />
+  <meta name="twitter:title" content="동탄 파라곤 3차 - 입지환경" />
   <meta
     name="twitter:description"
-    content="동탄2신도시 신주거문화타운 입지와 동탄역 GTX-A·SRT, 생활 인프라, 교육 환경을 갖춘 동탄 동양 파라곤 3차의 입지환경을 확인하세요."
+    content="동탄2신도시 신주거문화타운 입지와 동탄역 GTX-A·SRT, 생활 인프라, 교육 환경을 갖춘 동탄 파라곤 3차의 입지환경을 확인하세요."
   />
   <meta name="twitter:image" content="https://paragon-modelhouse.co.kr/img/og/location.jpg" />
   <meta name="twitter:url" content="https://paragon-modelhouse.co.kr/LocationEnvironment/intro" />
@@ -132,10 +132,10 @@ const LocationEnvironment1 = () => {
     {JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "동탄 동양 파라곤 3차 - 입지환경",
+      "name": "동탄 파라곤 3차 - 입지환경",
       "url": "https://paragon-modelhouse.co.kr/LocationEnvironment/intro",
       "description":
-        "동탄 동양 파라곤 3차 입지환경 페이지입니다. 경기도 화성시 동탄2지구 A58BL, 동탄2신도시 신주거문화타운 입지와 동탄역 GTX-A·SRT 광역 교통망, 생활 인프라, 교육 환경을 안내합니다.",
+        "동탄 파라곤 3차 입지환경 페이지입니다. 경기도 화성시 동탄2지구 A58BL, 동탄2신도시 신주거문화타운 입지와 동탄역 GTX-A·SRT 광역 교통망, 생활 인프라, 교육 환경을 안내합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://paragon-modelhouse.co.kr/img/og/location.jpg",
@@ -161,10 +161,10 @@ const LocationEnvironment1 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차 - 입지안내
+  동탄 파라곤 3차 - 입지안내
 </h1>
 <p className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차의 입지 정보를 확인하세요. 경기도 화성시 동탄2지구 A58BL에 위치해
+  동탄 파라곤 3차의 입지 정보를 확인하세요. 경기도 화성시 동탄2지구 A58BL에 위치해
   동탄2신도시 신주거문화타운의 쾌적한 주거환경과 생활 인프라를 누릴 수 있습니다.
   동탄역 GTX-A와 SRT 광역 교통망, 교육 환경, 생활 편의시설 등 입지 가치를 안내합니다.
 </p>
@@ -172,13 +172,13 @@ const LocationEnvironment1 = () => {
 <div className={styles.textBox}>
   <div>동탄2신도시 신주거문화타운에서</div>
   <div>삶의 가치가 높아지는 곳</div>
-  <div>동탄 동양 파라곤 3차가 새로운 주거 가치로 찾아옵니다.</div>
+  <div>동탄 파라곤 3차가 새로운 주거 가치로 찾아옵니다.</div>
 </div>
 
 <img
   src={page1}
   className={styles.image2}
-  alt="동탄 동양 파라곤 3차 입지환경 이미지"
+  alt="동탄 파라곤 3차 입지환경 이미지"
 />
 
       <div className={styles.section2}>
@@ -193,7 +193,7 @@ const LocationEnvironment1 = () => {
 
       <div className={styles.commonBox}>
         <div className={styles.notice}>
-          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 동탄 동양 파라곤 3차사업주체 및 시공사와 무관합니다.
+          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 동탄 파라곤 3차사업주체 및 시공사와 무관합니다.
         </div>
       </div>
 

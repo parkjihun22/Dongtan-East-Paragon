@@ -15,7 +15,7 @@ import { Helmet } from "react-helmet-async";
 
 
 const projectData = [
-  { label: '사업명', value: '동탄 동양 파라곤 3차' },
+  { label: '사업명', value: '동탄 파라곤 3차' },
   { label: '대지위치', value: '경기도 화성시 동탄2지구 A58BL' },
   { label: '주택형', value: '전용 82㎡ / 108㎡' },
   { label: '세대수', value: '총 1,247세대' },
@@ -63,18 +63,18 @@ const BusinessGuide1 = () => {
 
 <Helmet>
   {/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-  <title>동탄 동양 파라곤 3차 - 사업안내</title>
+  <title>동탄 파라곤 3차 - 사업안내</title>
   <meta
     name="description"
-    content="경기도 화성시 동탄2지구 A58BL에 들어서는 동탄 동양 파라곤 3차의 사업 개요를 확인하세요. 82㎡·108㎡ 총 1,247세대, 지하 2층~지상 18층~20층 규모, 주차 총 1,828대 계획 안내."
+    content="경기도 화성시 동탄2지구 A58BL에 들어서는 동탄 파라곤 3차의 사업 개요를 확인하세요. 82㎡·108㎡ 총 1,247세대, 지하 2층~지상 18층~20층 규모, 주차 총 1,828대 계획 안내."
   />
   <meta name="robots" content="index,follow" />
   <link rel="canonical" href="https://paragon-modelhouse.co.kr/BusinessGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="동탄 동양 파라곤 3차" />
-  <meta property="og:title" content="동탄 동양 파라곤 3차 - 사업안내" />
+  <meta property="og:site_name" content="동탄 파라곤 3차" />
+  <meta property="og:title" content="동탄 파라곤 3차 - 사업안내" />
   <meta
     property="og:description"
     content="동탄2신도시 신주거문화타운 A58BL에 조성되는 총 1,247세대 대단지. 82㎡·108㎡ 타입, 지하 2층~지상 18층~20층 규모와 주차 계획을 확인하세요."
@@ -86,10 +86,10 @@ const BusinessGuide1 = () => {
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="동탄 동양 파라곤 3차 - 사업안내" />
+  <meta name="twitter:title" content="동탄 파라곤 3차 - 사업안내" />
   <meta
     name="twitter:description"
-    content="동탄 동양 파라곤 3차 사업 개요: 동탄2지구 A58BL, 82㎡·108㎡ 총 1,247세대, 지하 2층~지상 18층~20층 규모 안내."
+    content="동탄 파라곤 3차 사업 개요: 동탄2지구 A58BL, 82㎡·108㎡ 총 1,247세대, 지하 2층~지상 18층~20층 규모 안내."
   />
   <meta name="twitter:image" content="https://paragon-modelhouse.co.kr/img/og/business.jpg" />
   <meta name="twitter:url" content="https://paragon-modelhouse.co.kr/BusinessGuide/intro" />
@@ -99,10 +99,10 @@ const BusinessGuide1 = () => {
     {JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "동탄 동양 파라곤 3차 - 사업안내",
+      "name": "동탄 파라곤 3차 - 사업안내",
       "url": "https://paragon-modelhouse.co.kr/BusinessGuide/intro",
       "description":
-        "경기도 화성시 동탄2지구 A58BL에 들어서는 동탄 동양 파라곤 3차의 사업 개요와 위치, 세대정보, 규모, 주차대수, 건폐율, 용적률 정보를 제공합니다.",
+        "경기도 화성시 동탄2지구 A58BL에 들어서는 동탄 파라곤 3차의 사업 개요와 위치, 세대정보, 규모, 주차대수, 건폐율, 용적률 정보를 제공합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://paragon-modelhouse.co.kr/img/og/business.jpg",
@@ -127,19 +127,19 @@ const BusinessGuide1 = () => {
 
 <MenuBar contents={menuContents} />
 
-<h1 className={styles.screenReaderOnly}>동탄 동양 파라곤 3차 - 사업안내</h1>
+<h1 className={styles.screenReaderOnly}>동탄 파라곤 3차 - 사업안내</h1>
 <p className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차는 경기도 화성시 동탄2지구 A58BL에 조성되는 대단지 아파트입니다.
+  동탄 파라곤 3차는 경기도 화성시 동탄2지구 A58BL에 조성되는 대단지 아파트입니다.
   이 페이지에서는 전용 82㎡와 108㎡, 총 1,247세대 세대정보와 지하 2층~지상 18층~20층 규모,
   총 1,828대 주차계획, 건폐율 12.38%, 용적률 139.91% 등 사업의 핵심 정보를 안내합니다.
 </p>
 
 <div className={styles.textBox}>
   <div>동탄2신도시 신주거문화타운의 새로운 주거 가치</div>
-  <div>동탄 동양 파라곤 3차, 대단지 프리미엄을 만듭니다.</div>
+  <div>동탄 파라곤 3차, 대단지 프리미엄을 만듭니다.</div>
 </div>
 
-<img className={styles.img3} src={page1} alt="동탄 동양 파라곤 3차 사업개요 이미지"/>
+<img className={styles.img3} src={page1} alt="동탄 파라곤 3차 사업개요 이미지"/>
 
 			<div className={styles.tableContainer}>
 				{!isMobile && <img className={styles.tableImg} src={tableImage} />}

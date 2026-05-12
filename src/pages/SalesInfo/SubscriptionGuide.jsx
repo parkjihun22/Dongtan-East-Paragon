@@ -55,10 +55,10 @@ const ComplexGuide1 = () => {
   return (
     <div className={styles.container}>
       <Helmet>
-        <title>동탄 동양 파라곤 3차 - 체크포인트</title>
+        <title>동탄 파라곤 3차 - 체크포인트</title>
         <meta
           name="description"
-          content="동탄 동양 파라곤 3차 청약 전 필수 체크포인트를 확인하세요. 청약 자격(거주기간·무주택·예치금), 특별공급 유형, 필요서류, 접수 일정 및 유의사항을 안내합니다."
+          content="동탄 파라곤 3차 청약 전 필수 체크포인트를 확인하세요. 청약 자격(거주기간·무주택·예치금), 특별공급 유형, 필요서류, 접수 일정 및 유의사항을 안내합니다."
         />
         <link rel="canonical" href="https://paragon-modelhouse.co.kr/SalesInfo/SubscriptionGuide" />
         <meta name="robots" content="index,follow" />
@@ -72,18 +72,18 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
 
       <h1 className={styles.screenReaderOnly}>
-        동탄 동양 파라곤 3차 - 체크포인트
+        동탄 파라곤 3차 - 체크포인트
       </h1>
 
       <p className={styles.screenReaderOnly}>
-        동탄 동양 파라곤 3차 청약 전 반드시 확인해야 할 체크포인트입니다.
+        동탄 파라곤 3차 청약 전 반드시 확인해야 할 체크포인트입니다.
         청약 자격(거주기간·무주택·예치금), 특별공급 요건, 필요서류,
         접수 일정 및 유의사항을 확인하고 정확하게 준비하세요.
       </p>
 
       <div className={styles.textBox}>
         <div>청약 전 반드시 확인하세요</div>
-        <div>동탄 동양 파라곤 3차 체크포인트 안내</div>
+        <div>동탄 파라곤 3차 체크포인트 안내</div>
       </div>
 
 
@@ -91,7 +91,7 @@ const ComplexGuide1 = () => {
       {/* <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="동탄 동양 파라곤 3차청약제도 변경안내 이미지1"
+        alt="동탄 파라곤 3차청약제도 변경안내 이미지1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       /> */}
 

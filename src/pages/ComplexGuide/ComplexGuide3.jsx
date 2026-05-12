@@ -51,21 +51,21 @@ const ComplexGuide3 = () => {
   return (
     <div className={styles.container}>
 <Helmet>
-  <title>동탄 동양 파라곤 3차 - 커뮤니티</title>
+  <title>동탄 파라곤 3차 - 커뮤니티</title>
   <meta
     name="description"
-    content="동탄 동양 파라곤 3차 커뮤니티 시설 안내. 피트니스센터, 실내 골프연습장, 작은도서관, 주민 라운지 등 입주민의 생활 편의를 높이는 다양한 커뮤니티 시설을 확인하세요."
+    content="동탄 파라곤 3차 커뮤니티 시설 안내. 피트니스센터, 실내 골프연습장, 작은도서관, 주민 라운지 등 입주민의 생활 편의를 높이는 다양한 커뮤니티 시설을 확인하세요."
   />
   <link rel="canonical" href="https://paragon-modelhouse.co.kr/ComplexGuide/community" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="동탄 동양 파라곤 3차" />
-  <meta property="og:title" content="동탄 동양 파라곤 3차 - 커뮤니티" />
+  <meta property="og:site_name" content="동탄 파라곤 3차" />
+  <meta property="og:title" content="동탄 파라곤 3차 - 커뮤니티" />
   <meta
     property="og:description"
-    content="피트니스센터, 실내 골프연습장, 작은도서관, 주민 라운지 등 다양한 커뮤니티 시설을 갖춘 동탄 동양 파라곤 3차."
+    content="피트니스센터, 실내 골프연습장, 작은도서관, 주민 라운지 등 다양한 커뮤니티 시설을 갖춘 동탄 파라곤 3차."
   />
   <meta property="og:url" content="https://paragon-modelhouse.co.kr/ComplexGuide/community" />
   <meta property="og:image" content="https://paragon-modelhouse.co.kr/img/og/complex.jpg" />
@@ -77,23 +77,23 @@ const ComplexGuide3 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차 - 커뮤니티
+  동탄 파라곤 3차 - 커뮤니티
 </h1>
 <p className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차 커뮤니티 페이지에서는 단지 내 다양한 편의시설을 안내합니다.
+  동탄 파라곤 3차 커뮤니티 페이지에서는 단지 내 다양한 편의시설을 안내합니다.
   피트니스센터, 실내 골프연습장, 작은도서관, 주민 라운지 등 입주민의 여가와 생활 편의를
   고려한 커뮤니티 공간을 확인할 수 있습니다.
 </p>
 
 <div className={styles.textBox}>
   <div>동탄2신도시 신주거문화타운의 생활 가치</div>
-  <div>동탄 동양 파라곤 3차 커뮤니티를 확인하세요.</div>
+  <div>동탄 파라곤 3차 커뮤니티를 확인하세요.</div>
 </div>
 
 <img
   className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
   src={page1}
-  alt="동탄 동양 파라곤 3차 커뮤니티 시설 안내 이미지"
+  alt="동탄 파라곤 3차 커뮤니티 시설 안내 이미지"
   onLoad={handleImageLoad}
 />
 

@@ -52,21 +52,21 @@ const ComplexGuide1 = () => {
 		<div className={styles.container}>
 <Helmet>
   {/* 페이지별 메타 */}
-  <title>동탄 동양 파라곤 3차 - 단지배치도</title>
+  <title>동탄 파라곤 3차 - 단지배치도</title>
   <meta
     name="description"
-    content="동탄 동양 파라곤 3차 단지배치도 안내. 총 18개 동, 1,247세대 규모의 단지 구성과 조경, 커뮤니티, 주차 및 보행 동선을 확인하세요."
+    content="동탄 파라곤 3차 단지배치도 안내. 총 18개 동, 1,247세대 규모의 단지 구성과 조경, 커뮤니티, 주차 및 보행 동선을 확인하세요."
   />
   <meta name="robots" content="index,follow" />
   <link rel="canonical" href="https://paragon-modelhouse.co.kr/ComplexGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="동탄 동양 파라곤 3차" />
-  <meta property="og:title" content="동탄 동양 파라곤 3차 - 단지배치도" />
+  <meta property="og:site_name" content="동탄 파라곤 3차" />
+  <meta property="og:title" content="동탄 파라곤 3차 - 단지배치도" />
   <meta
     property="og:description"
-    content="총 18개 동, 1,247세대 규모의 동탄 동양 파라곤 3차 단지배치도와 조경, 커뮤니티, 주차 및 보행 동선을 확인하세요."
+    content="총 18개 동, 1,247세대 규모의 동탄 파라곤 3차 단지배치도와 조경, 커뮤니티, 주차 및 보행 동선을 확인하세요."
   />
   <meta property="og:url" content="https://paragon-modelhouse.co.kr/ComplexGuide/intro" />
   <meta property="og:image" content="https://paragon-modelhouse.co.kr/img/og/complex.jpg" />
@@ -75,7 +75,7 @@ const ComplexGuide1 = () => {
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="동탄 동양 파라곤 3차 - 단지배치도" />
+  <meta name="twitter:title" content="동탄 파라곤 3차 - 단지배치도" />
   <meta
     name="twitter:description"
     content="총 18개 동, 1,247세대 규모의 단지 구성과 조경, 커뮤니티, 주차 및 동선 계획을 확인하세요."
@@ -88,10 +88,10 @@ const ComplexGuide1 = () => {
     {JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "동탄 동양 파라곤 3차 - 단지배치도",
+      "name": "동탄 파라곤 3차 - 단지배치도",
       "url": "https://paragon-modelhouse.co.kr/ComplexGuide/intro",
       "description":
-        "동탄 동양 파라곤 3차 단지배치도 페이지입니다. 총 18개 동, 1,247세대 규모의 단지 구성과 조경, 커뮤니티 시설, 주차 및 보행 동선을 확인하세요.",
+        "동탄 파라곤 3차 단지배치도 페이지입니다. 총 18개 동, 1,247세대 규모의 단지 구성과 조경, 커뮤니티 시설, 주차 및 보행 동선을 확인하세요.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://paragon-modelhouse.co.kr/img/og/complex.jpg",
@@ -124,22 +124,22 @@ const ComplexGuide1 = () => {
 <Bener title="단지안내" />
 <MenuBar contents={menuContents} />
 
-<h1 className={styles.screenReaderOnly}>동탄 동양 파라곤 3차 - 단지배치도</h1>
+<h1 className={styles.screenReaderOnly}>동탄 파라곤 3차 - 단지배치도</h1>
 <p className={styles.screenReaderOnly}>
-  단지 배치도 페이지는 동탄 동양 파라곤 3차의 전체 단지 구성 정보를 제공합니다.
+  단지 배치도 페이지는 동탄 파라곤 3차의 전체 단지 구성 정보를 제공합니다.
   총 18개 동, 1,247세대 규모의 단지 배치와 조경, 커뮤니티 시설, 주차 및 보행 동선을
   시각적으로 안내하여 단지 내 생활을 쉽게 이해할 수 있도록 돕습니다.
 </p>
 
 <div className={styles.textBox}>
   <div>동탄2신도시 신주거문화타운의 여유로운 단지 설계</div>
-  <div>동탄 동양 파라곤 3차, 대단지의 가치를 완성합니다.</div>
+  <div>동탄 파라곤 3차, 대단지의 가치를 완성합니다.</div>
 </div>
 
 <img
   className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
   src={page1}
-  alt="동탄 동양 파라곤 3차 단지배치도 이미지"
+  alt="동탄 파라곤 3차 단지배치도 이미지"
   onLoad={handleImageLoad}
 />
 

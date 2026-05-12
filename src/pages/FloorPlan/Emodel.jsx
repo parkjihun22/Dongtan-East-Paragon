@@ -48,21 +48,21 @@ const Emodel = () => {
     <div className={styles.container}>
 <Helmet>
   {/* 핵심 SEO 페이지: 82㎡ */}
-  <title>동탄 동양 파라곤 3차 - 82㎡</title>
+  <title>동탄 파라곤 3차 - 82㎡</title>
   <meta
     name="description"
-    content="동탄 동양 파라곤 3차 82㎡ 세대 평면을 확인하세요. 전용 82㎡ 타입의 공간 구성과 실내 구조, 세대 배치 정보를 온라인으로 편리하게 확인할 수 있습니다."
+    content="동탄 파라곤 3차 82㎡ 세대 평면을 확인하세요. 전용 82㎡ 타입의 공간 구성과 실내 구조, 세대 배치 정보를 온라인으로 편리하게 확인할 수 있습니다."
   />
   <meta name="robots" content="index,follow" />
   <link rel="canonical" href="https://paragon-modelhouse.co.kr/FloorPlan/Emodel" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="동탄 동양 파라곤 3차" />
-  <meta property="og:title" content="동탄 동양 파라곤 3차 - 82㎡" />
+  <meta property="og:site_name" content="동탄 파라곤 3차" />
+  <meta property="og:title" content="동탄 파라곤 3차 - 82㎡" />
   <meta
     property="og:description"
-    content="동탄 동양 파라곤 3차 전용 82㎡ 세대 평면과 공간 구성을 확인하세요."
+    content="동탄 파라곤 3차 전용 82㎡ 세대 평면과 공간 구성을 확인하세요."
   />
   <meta property="og:url" content="https://paragon-modelhouse.co.kr/FloorPlan/Emodel" />
   <meta property="og:image" content="https://paragon-modelhouse.co.kr/img/og/emodel.jpg" />
@@ -71,10 +71,10 @@ const Emodel = () => {
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="동탄 동양 파라곤 3차 - 82㎡" />
+  <meta name="twitter:title" content="동탄 파라곤 3차 - 82㎡" />
   <meta
     name="twitter:description"
-    content="동탄 동양 파라곤 3차 82㎡ 세대 평면과 공간 구성을 확인하세요."
+    content="동탄 파라곤 3차 82㎡ 세대 평면과 공간 구성을 확인하세요."
   />
   <meta name="twitter:image" content="https://paragon-modelhouse.co.kr/img/og/emodel.jpg" />
   <meta name="twitter:url" content="https://paragon-modelhouse.co.kr/FloorPlan/Emodel" />
@@ -84,10 +84,10 @@ const Emodel = () => {
     {JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "동탄 동양 파라곤 3차 - 82㎡",
+      "name": "동탄 파라곤 3차 - 82㎡",
       "url": "https://paragon-modelhouse.co.kr/FloorPlan/Emodel",
       "description":
-        "동탄 동양 파라곤 3차 전용 82㎡ 세대 평면과 공간 구성을 확인할 수 있습니다.",
+        "동탄 파라곤 3차 전용 82㎡ 세대 평면과 공간 구성을 확인할 수 있습니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://paragon-modelhouse.co.kr/img/og/emodel.jpg",
@@ -111,17 +111,17 @@ const Emodel = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차 - 82㎡
+  동탄 파라곤 3차 - 82㎡
 </h1>
 <p className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차 전용 82㎡ 세대 평면을 온라인으로 확인하세요.
+  동탄 파라곤 3차 전용 82㎡ 세대 평면을 온라인으로 확인하세요.
   세대 구조와 공간 구성, 생활 동선을 고려한 설계 정보를 통해
-  동탄 동양 파라곤 3차의 주거 공간을 살펴볼 수 있습니다.
+  동탄 파라곤 3차의 주거 공간을 살펴볼 수 있습니다.
 </p>
 
 <div className={styles.textBox}>
   <div>동탄2신도시 신주거문화타운의 주거 공간</div>
-  <div>동탄 동양 파라곤 3차 82㎡ 평면을 확인하세요.</div>
+  <div>동탄 파라곤 3차 82㎡ 평면을 확인하세요.</div>
 </div>
 
 
@@ -132,7 +132,7 @@ const Emodel = () => {
       <Bener title="82㎡" />
       <MenuBar contents={menuContents} />
 
-      <h1 className={styles.screenReaderOnly}>동탄 동양 파라곤 3차- 82㎡</h1>
+      <h1 className={styles.screenReaderOnly}>동탄 파라곤 3차- 82㎡</h1>
 
       <div className={styles.tabMenu}>
         {menuContents.slice(0, 5).map((tab, idx) => (

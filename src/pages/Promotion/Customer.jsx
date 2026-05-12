@@ -67,21 +67,21 @@ export default function Customer() {
     <>
       <Helmet>
         {/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-        <title>동탄 동양 파라곤 3차 - 관심고객등록</title>
+        <title>동탄 파라곤 3차 - 관심고객등록</title>
         <meta
           name="description"
-          content="동탄 동양 파라곤 3차 관심고객 등록 안내. 모델하우스 방문예약, 청약 일정, 분양 정보, 현장 위치 등 최신 소식을 가장 먼저 받아보세요."
+          content="동탄 파라곤 3차 관심고객 등록 안내. 모델하우스 방문예약, 청약 일정, 분양 정보, 현장 위치 등 최신 소식을 가장 먼저 받아보세요."
         />
         <meta name="robots" content="index,follow" />
         <link rel="canonical" href="https://paragon-modelhouse.co.kr/Promotion/Customer" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="동탄 동양 파라곤 3차" />
-        <meta property="og:title" content="동탄 동양 파라곤 3차 - 관심고객등록" />
+        <meta property="og:site_name" content="동탄 파라곤 3차" />
+        <meta property="og:title" content="동탄 파라곤 3차 - 관심고객등록" />
         <meta
           property="og:description"
-          content="동탄 동양 파라곤 3차 관심고객 등록 시 모델하우스 방문예약, 청약 일정, 분양 정보, 현장 위치 등 주요 안내를 우선 받아보세요."
+          content="동탄 파라곤 3차 관심고객 등록 시 모델하우스 방문예약, 청약 일정, 분양 정보, 현장 위치 등 주요 안내를 우선 받아보세요."
         />
         <meta property="og:url" content="https://paragon-modelhouse.co.kr/Promotion/Customer" />
         <meta property="og:image" content="https://paragon-modelhouse.co.kr/img/og/customer.jpg" />
@@ -90,10 +90,10 @@ export default function Customer() {
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="동탄 동양 파라곤 3차 - 관심고객등록" />
+        <meta name="twitter:title" content="동탄 파라곤 3차 - 관심고객등록" />
         <meta
           name="twitter:description"
-          content="동탄 동양 파라곤 3차 관심고객 등록으로 모델하우스 방문예약, 청약 일정, 분양 정보 등 최신 소식을 확인하세요."
+          content="동탄 파라곤 3차 관심고객 등록으로 모델하우스 방문예약, 청약 일정, 분양 정보 등 최신 소식을 확인하세요."
         />
         <meta name="twitter:image" content="https://paragon-modelhouse.co.kr/img/og/customer.jpg" />
         <meta name="twitter:url" content="https://paragon-modelhouse.co.kr/Promotion/Customer" />
@@ -103,10 +103,10 @@ export default function Customer() {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "동탄 동양 파라곤 3차 - 관심고객등록",
+            "name": "동탄 파라곤 3차 - 관심고객등록",
             "url": "https://paragon-modelhouse.co.kr/Promotion/Customer",
             "description":
-              "동탄 동양 파라곤 3차 관심고객 등록 페이지입니다. 모델하우스 방문예약, 청약 일정, 분양 정보 등 주요 안내를 우선 제공합니다.",
+              "동탄 파라곤 3차 관심고객 등록 페이지입니다. 모델하우스 방문예약, 청약 일정, 분양 정보 등 주요 안내를 우선 제공합니다.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
               "contentUrl": "https://paragon-modelhouse.co.kr/img/og/customer.jpg",
@@ -130,7 +130,7 @@ export default function Customer() {
       <FixIcon />
 
       {/* 배너 */}
-      <Bener title="동탄 동양 파라곤 3차" />
+      <Bener title="동탄 파라곤 3차" />
 
       {/* 네비게이션 탭 */}
       <MenuBar contents={promoMenu} />
@@ -140,7 +140,7 @@ export default function Customer() {
         {/* ─── 좌측 카드 ─── */}
         <div className={styles.customerLeft}>
           <div className={styles.textBlock}>
-            <h2 className={styles.projectName}>동탄 동양 파라곤 3차</h2>
+            <h2 className={styles.projectName}>동탄 파라곤 3차</h2>
             <h3 className={styles.pageTitle}>방문예약등록</h3>
           </div>
           <img

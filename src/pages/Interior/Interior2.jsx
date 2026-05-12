@@ -63,17 +63,17 @@ const Interior2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        동탄 동양 파라곤 3차 - 인테리어
+        동탄 파라곤 3차 - 인테리어
       </h1>
       <p className={styles.screenReaderOnly}>
-        본 페이지에서는 동탄 동양 파라곤 3차 84A 타입의 인테리어를 소개합니다.
+        본 페이지에서는 동탄 파라곤 3차 84A 타입의 인테리어를 소개합니다.
         공간 구성과 마감 재질, 수납·동선 등 디자인 포인트를 확인하고
         거실·주방·침실·욕실별 컬러 패키지와 옵션 정보를 살펴보세요.
       </p>
 
       <div className={styles.textBox}>
         <div>이천의 새로운 기준 위에</div>
-        <div>동탄 동양 파라곤 3차가 자부심으로 찾아옵니다.</div>
+        <div>동탄 파라곤 3차가 자부심으로 찾아옵니다.</div>
       </div>
 
 
@@ -81,7 +81,7 @@ const Interior2 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="동탄 동양 파라곤 3차84A 인테리어 안내 이미지"
+				alt="동탄 파라곤 3차84A 인테리어 안내 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

@@ -66,10 +66,10 @@ const BusinessGuide2 = () => {
 		<div className={styles.container}>
 <Helmet>
   {/* 필수 메타 */}
-  <title>동탄 동양 파라곤 3차 - 공급안내</title>
+  <title>동탄 파라곤 3차 - 공급안내</title>
   <meta
     name="description"
-    content="동탄 동양 파라곤 3차 공급안내. 82㎡·108㎡ 총 1,247세대 공급 구성과 계약 절차, 제출서류, 준비 방법 및 유의사항을 확인하세요."
+    content="동탄 파라곤 3차 공급안내. 82㎡·108㎡ 총 1,247세대 공급 구성과 계약 절차, 제출서류, 준비 방법 및 유의사항을 확인하세요."
   />
   <meta name="robots" content="index,follow" />
   <link
@@ -79,11 +79,11 @@ const BusinessGuide2 = () => {
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="동탄 동양 파라곤 3차" />
-  <meta property="og:title" content="동탄 동양 파라곤 3차 - 공급안내" />
+  <meta property="og:site_name" content="동탄 파라곤 3차" />
+  <meta property="og:title" content="동탄 파라곤 3차 - 공급안내" />
   <meta
     property="og:description"
-    content="동탄 동양 파라곤 3차 공급안내: 82㎡·108㎡ 총 1,247세대 공급 구성과 계약서류, 준비 절차 및 유의사항을 확인하세요."
+    content="동탄 파라곤 3차 공급안내: 82㎡·108㎡ 총 1,247세대 공급 구성과 계약서류, 준비 절차 및 유의사항을 확인하세요."
   />
   <meta property="og:url" content="https://paragon-modelhouse.co.kr/BusinessGuide/documents" />
   <meta property="og:image" content="https://paragon-modelhouse.co.kr/Main1.png" />
@@ -94,19 +94,19 @@ const BusinessGuide2 = () => {
 <Bener title="공급안내" />
 <MenuBar contents={menuContents} />
 
-<h1 className={styles.screenReaderOnly}>동탄 동양 파라곤 3차 - 공급안내</h1>
+<h1 className={styles.screenReaderOnly}>동탄 파라곤 3차 - 공급안내</h1>
 <p className={styles.screenReaderOnly}>
-  본 페이지는 동탄 동양 파라곤 3차의 공급 정보와 계약 진행에 필요한 주요 안내를 제공합니다.
+  본 페이지는 동탄 파라곤 3차의 공급 정보와 계약 진행에 필요한 주요 안내를 제공합니다.
   82㎡와 108㎡ 타입, 총 1,247세대 공급 구성과 제출 서류, 준비 방법 및 유의사항을 확인해 정확하게 진행하세요.
 </p>
 
 <div className={styles.textBox}>
   <div>동탄2신도시 신주거문화타운의 새로운 기준 위에</div>
-  <div>동탄 동양 파라곤 3차, 공급안내를 미리 확인하세요.</div>
+  <div>동탄 파라곤 3차, 공급안내를 미리 확인하세요.</div>
 </div>
 
 {/* 이미지에 isImageVisible 상태 적용 */}
-<img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="동탄 동양 파라곤 3차 공급안내 이미지" />
+<img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="동탄 파라곤 3차 공급안내 이미지" />
 
 
 

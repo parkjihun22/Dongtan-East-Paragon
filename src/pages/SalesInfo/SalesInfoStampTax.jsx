@@ -55,10 +55,10 @@ const ComplexGuide1 = () => {
 
 
 <Helmet>
-  <title>동탄 동양 파라곤 3차 - 인지세 납부 안내</title>
+  <title>동탄 파라곤 3차 - 인지세 납부 안내</title>
   <meta
     name="description"
-    content="동탄 동양 파라곤 3차 인지세 납부 안내. 분양 계약 시 필요한 인지세 기준, 납부 금액, 납부 방법 및 유의사항을 확인하세요."
+    content="동탄 파라곤 3차 인지세 납부 안내. 분양 계약 시 필요한 인지세 기준, 납부 금액, 납부 방법 및 유의사항을 확인하세요."
   />
   <link rel="canonical" href="https://paragon-modelhouse.co.kr/SalesInfo/stampTax" />
   <meta name="robots" content="index,follow" />
@@ -72,25 +72,25 @@ const ComplexGuide1 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차 - 인지세 납부 안내
+  동탄 파라곤 3차 - 인지세 납부 안내
 </h1>
 
 <p className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차 인지세 안내 페이지입니다.
+  동탄 파라곤 3차 인지세 안내 페이지입니다.
   분양 계약 체결 시 필요한 인지세 기준, 납부 금액, 납부 절차 및
   유의사항을 확인하고 계약 준비를 정확하게 진행하세요.
 </p>
 
 <div className={styles.textBox}>
   <div>인지세 납부 기준을 확인하세요</div>
-  <div>동탄 동양 파라곤 3차 인지세 안내</div>
+  <div>동탄 파라곤 3차 인지세 안내</div>
 </div>
 
 {/* 이미지에 애니메이션 효과 추가 */}
 {/* <img
   className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
   src={page1}
-  alt="동탄 동양 파라곤 3차 인지세 납부 안내 이미지"
+  alt="동탄 파라곤 3차 인지세 납부 안내 이미지"
   onLoad={handleImageLoad}
 /> */}
 

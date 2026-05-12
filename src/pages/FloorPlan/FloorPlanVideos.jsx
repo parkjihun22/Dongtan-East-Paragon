@@ -65,13 +65,13 @@ const FloorPlanVideos = () => {
       <MenuBar contents={menuContents} />
 
       <h1 className={styles.screenReaderOnly}>
-        동탄 동양 파라곤 3차- 홍보영상
+        동탄 파라곤 3차- 홍보영상
       </h1>
       <p className={styles.screenReaderOnly}>세대안내영상 안내 페이지입니다.</p>
 
 			<div className={styles.textBox}>
 				<div>강화의 새로운 기준 위에</div>
-				<div>동탄 동양 파라곤 3차가 자부심으로 찾아옵니다.</div>
+				<div>동탄 파라곤 3차가 자부심으로 찾아옵니다.</div>
 			</div>
 
       {/* 탭 메뉴 */}

@@ -45,7 +45,7 @@ export default function PressDetail() {
       <Bener />
       <MenuBar
         contents={[
-          { title: "언론보도", url: `/동탄 동양 파라곤 3차/press` },
+          { title: "언론보도", url: `/동탄 파라곤 3차/press` },
           { title: "방문예약등록", url: `/purgio/customer` },
         ]}
       />

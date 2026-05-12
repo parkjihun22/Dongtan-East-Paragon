@@ -24,7 +24,7 @@ const items = [
       <ul className={styles.detailList}>
         <li>
           <strong>사업명</strong>
-          <span>동탄 동양 파라곤 3차</span>
+          <span>동탄 파라곤 3차</span>
         </li>
         <li>
           <strong>대지위치</strong>
@@ -86,7 +86,7 @@ const items = [
           <h3 className={styles.premiumTitle}>GREAT PREMIUM</h3>
           <p className={styles.premiumSubtitle}>
             동탄신도시 생활중심과 학세권을 누리는<br />
-            동탄 동양 파라곤 3차프리미엄 라이프
+            동탄 파라곤 3차프리미엄 라이프
           </p>
         </div>
         {/* 슬라이더 */}

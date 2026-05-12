@@ -67,14 +67,14 @@ const FloorPlan2 = () => {
 
 			<div className={styles.textBox}>
         <div>이천의 새로운 기준 위에</div>
-        <div>동탄 동양 파라곤 3차가 자부심으로 찾아옵니다.</div>
+        <div>동탄 파라곤 3차가 자부심으로 찾아옵니다.</div>
       </div>
 
 			{/* 이미지에 애니메이션 효과 추가 */}
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="동탄 동양 파라곤 3차평면안내 이미지2"
+				alt="동탄 파라곤 3차평면안내 이미지2"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

@@ -51,10 +51,10 @@ const BusinessGuide2 = () => {
     return (
         <div className={styles.container}>
 <Helmet>
-  <title>동탄 동양 파라곤 3차 - 분양일정</title>
+  <title>동탄 파라곤 3차 - 분양일정</title>
   <meta
     name="description"
-    content="동탄 동양 파라곤 3차 분양(청약) 일정을 확인하세요. 특별공급, 1순위·2순위 청약 접수, 당첨자 발표 및 정당계약 등 주요 분양 일정을 안내합니다."
+    content="동탄 파라곤 3차 분양(청약) 일정을 확인하세요. 특별공급, 1순위·2순위 청약 접수, 당첨자 발표 및 정당계약 등 주요 분양 일정을 안내합니다."
   />
   <link rel="canonical" href="https://paragon-modelhouse.co.kr/BusinessGuide/plan" />
   <meta name="robots" content="index,follow" />
@@ -67,23 +67,23 @@ const BusinessGuide2 = () => {
 <MenuBar contents={menuContents} />
 
 {/* SEO 최적화를 위한 h1/p 태그 */}
-<h1 className={styles.screenReaderOnly}>동탄 동양 파라곤 3차 - 분양일정</h1>
+<h1 className={styles.screenReaderOnly}>동탄 파라곤 3차 - 분양일정</h1>
 <p className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차의 분양 일정을 한눈에 확인하세요.
+  동탄 파라곤 3차의 분양 일정을 한눈에 확인하세요.
   특별공급, 1순위·2순위 청약 접수부터 당첨자 발표와 정당계약까지
   주요 청약 일정을 안내합니다.
 </p>
 
 <div className={styles.textBox}>
   <div>동탄2신도시 신주거문화타운의 새로운 주거 가치</div>
-  <div>동탄 동양 파라곤 3차 분양일정을 확인하세요.</div>
+  <div>동탄 파라곤 3차 분양일정을 확인하세요.</div>
 </div>
 
 {/* 분양일정 이미지 또는 컴포넌트 영역 */}
 <img
   className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`}
   src={page1}
-  alt="동탄 동양 파라곤 3차 분양 일정 안내"
+  alt="동탄 파라곤 3차 분양 일정 안내"
 />
 
 <div className={styles.readyContainer}>

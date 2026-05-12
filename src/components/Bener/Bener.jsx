@@ -20,7 +20,7 @@ const Bener = ({ title }) => {
             <img
                 className={`${styles.benerImage} ${isLoaded ? styles.showImage : ''}`}
                 src={img}
-                alt="동탄 동양 파라곤 3차 배너이미지"
+                alt="동탄 파라곤 3차 배너이미지"
             />
             <div className={styles.overlay}></div>
             <div
@@ -40,7 +40,7 @@ const Bener = ({ title }) => {
 export default Bener;
 
 const contents = (text, isLoaded) => {
-  if (text === '동양 파라곤' || text === '홍보영상' || text === '체크포인트' || text === '당첨자서류안내' || text === '동탄 동양 파라곤 3차') {
+  if (text === '동양 파라곤' || text === '홍보영상' || text === '체크포인트' || text === '당첨자서류안내' || text === '동탄 파라곤 3차') {
     return (
       <>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
@@ -50,7 +50,7 @@ const contents = (text, isLoaded) => {
           82㎡·108㎡ 중대형 중심, 총 1,247세대 대단지 아파트.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          동탄 동양 파라곤 3차, 교통·교육·생활 인프라를 품은 새로운 주거 선택.
+          동탄 파라곤 3차, 교통·교육·생활 인프라를 품은 새로운 주거 선택.
         </div>
       </>
     );
@@ -58,7 +58,7 @@ const contents = (text, isLoaded) => {
     return (
       <>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          경기도 화성시 동탄2지구 A58블록에 조성되는 동탄 동양 파라곤 3차.
+          경기도 화성시 동탄2지구 A58블록에 조성되는 동탄 파라곤 3차.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
           지하 2층부터 지상 최고 20층, 총 18개 동 규모의 대단지 아파트.
@@ -67,7 +67,7 @@ const contents = (text, isLoaded) => {
           전용 82㎡와 108㎡ 타입으로 구성된 실수요 중심 주거 단지.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          동탄 동양 파라곤 3차
+          동탄 파라곤 3차
         </div>
       </>
     );
@@ -86,13 +86,13 @@ const contents = (text, isLoaded) => {
     return (
       <>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          총 1,247세대 규모로 완성되는 동탄 동양 파라곤 3차의 단지 프리미엄.
+          총 1,247세대 규모로 완성되는 동탄 파라곤 3차의 단지 프리미엄.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
           여유로운 동 배치와 커뮤니티, 조경까지 고려한 쾌적한 주거 설계.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          동탄 동양 파라곤 3차, 일상의 품격을 더하다.
+          동탄 파라곤 3차, 일상의 품격을 더하다.
         </div>
       </>
     );

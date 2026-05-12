@@ -48,21 +48,21 @@ const Brand1 = () => {
     return (
         <div className={styles.container}>
 <Helmet>
-  <title>동탄 동양 파라곤 3차 - 브랜드 소개</title>
+  <title>동탄 파라곤 3차 - 브랜드 소개</title>
   <meta
     name="description"
-    content="동탄 동양 파라곤 3차 브랜드 소개. 경기도 화성시 동탄2지구 A58BL에 들어서는 총 1,247세대 대단지 아파트로, 동탄2신도시 신주거문화타운의 입지와 주거 가치를 소개합니다."
+    content="동탄 파라곤 3차 브랜드 소개. 경기도 화성시 동탄2지구 A58BL에 들어서는 총 1,247세대 대단지 아파트로, 동탄2신도시 신주거문화타운의 입지와 주거 가치를 소개합니다."
   />
   <link rel="canonical" href="https://paragon-modelhouse.co.kr/Brand/intro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="동탄 동양 파라곤 3차" />
-  <meta property="og:title" content="동탄 동양 파라곤 3차 - 브랜드 소개" />
+  <meta property="og:site_name" content="동탄 파라곤 3차" />
+  <meta property="og:title" content="동탄 파라곤 3차 - 브랜드 소개" />
   <meta
     property="og:description"
-    content="동탄2신도시 신주거문화타운 A58BL에 들어서는 82㎡·108㎡ 총 1,247세대 규모의 동탄 동양 파라곤 3차 브랜드 가치를 소개합니다."
+    content="동탄2신도시 신주거문화타운 A58BL에 들어서는 82㎡·108㎡ 총 1,247세대 규모의 동탄 파라곤 3차 브랜드 가치를 소개합니다."
   />
   <meta property="og:url" content="https://paragon-modelhouse.co.kr/Brand/intro" />
   <meta property="og:image" content="https://paragon-modelhouse.co.kr/images/og/main.jpg" />
@@ -74,22 +74,22 @@ const Brand1 = () => {
 <Bener title="브랜드 소개" />
 <MenuBar contents={menuContents} />
 
-<h1 className={styles.screenReaderOnly}>동탄 동양 파라곤 3차 - 브랜드 소개</h1>
+<h1 className={styles.screenReaderOnly}>동탄 파라곤 3차 - 브랜드 소개</h1>
 <p className={styles.screenReaderOnly}>
-  동탄 동양 파라곤 3차는 경기도 화성시 동탄2지구 A58BL에 들어서는 대단지 아파트입니다.
+  동탄 파라곤 3차는 경기도 화성시 동탄2지구 A58BL에 들어서는 대단지 아파트입니다.
   전용 82㎡와 108㎡, 총 1,247세대 규모로 계획되어 동탄2신도시 신주거문화타운의 쾌적한 주거환경과 생활 인프라를 누릴 수 있습니다.
-  동탄 동양 파라곤 3차는 실용적인 설계와 쾌적한 단지 환경을 바탕으로 새로운 주거 가치를 제시합니다.
+  동탄 파라곤 3차는 실용적인 설계와 쾌적한 단지 환경을 바탕으로 새로운 주거 가치를 제시합니다.
 </p>
 
 <div className={`${styles.textBox} ${isTextVisible ? styles.active : ''}`}>
   <div>동탄2신도시의 생활을 가까이</div>
-  <div>동탄 동양 파라곤 3차, 새로운 주거 가치</div>
+  <div>동탄 파라곤 3차, 새로운 주거 가치</div>
 </div>
 
 <img
   className={`${styles.image} ${isImageVisible ? styles.visible : ''}`}
   src={page1}
-  alt="동탄 동양 파라곤 3차 브랜드 소개 이미지"
+  alt="동탄 파라곤 3차 브랜드 소개 이미지"
 />
             <Footer />
         </div>
